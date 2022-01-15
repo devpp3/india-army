@@ -1,0 +1,122 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.hero{
+    background-image: url('./images/maratha-light-infantry1.jpg');
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.hero1{
+    background-image: url('./images/sddefault.jpg');
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+  
+.hero2{
+
+    background-image: url('./images/jpg.jpg');
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.hero3{
+    
+    background-image: url('./images/hqdefault.jpg');
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.hero4{
+    
+    background-image: url('./images/gettyimages-1052303350-612x612.jpg');
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+h1{
+    font-size: 70px;
+    color: red;
+    font-weight: bolder;
+}
+
+p{
+    font-size: 50px;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.mainsection{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-decoration: none;
+}
+
+    
+   
+}
+.mainsection a{
+font-size: 25px;
+color: black;
+
+}
+
+img{
+    height: 170px;
+    width: 170px;
+    border-radius: 50%;
+}
+
+a{
+    font-size: 30px;
+    color: black;
+    font-weight: bolder;
+    text-decoration: none;
+}
+
+nav{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   justify-content: space-between;
+   background: linear-gradient(khaki,green);
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
